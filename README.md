@@ -1,6 +1,6 @@
 # 9336_p2_z5434608
 
-#### <font color=blue>rssi_heat.html</font> is the rssi heatmap produced by *p2.py*
+#### *rssi_heat.html* is the rssi heatmap produced by *p2.py*
 
 #### *2p4ghz.html* is the rssi of 2.4Ghz heatmap produced by *p21.py*
 
